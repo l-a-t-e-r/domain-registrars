@@ -4,6 +4,9 @@ Ranking every domain registrars and location where they located. It's just in ca
 
 A
 
+alldomains.hosting	
+
+
 B
 
 C
@@ -49,6 +52,44 @@ L
 N
 
 ## NETIM
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Namecheap 
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## NameSilo
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+M
+
+## Marcaria International
+
+TLDs Offered:
+
+Location:
+
+Experience:
 
 O
 
