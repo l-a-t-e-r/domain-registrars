@@ -4,6 +4,16 @@ Ranking every domain registrars and location where they located. It's just in ca
 
 1
 
+## 101domain
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
 2
 
 3
@@ -25,6 +35,17 @@ Ranking every domain registrars and location where they located. It's just in ca
 
 A
 
+## Above
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+
 ## alldomains.hosting	
 
 TLDs Offered:
@@ -45,7 +66,29 @@ Experience:
 
 Rating:
 
+## Alibaba Cloud	
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+Amazon Route 53
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+
 B
+
 
 ## Blacknight
 
@@ -55,6 +98,13 @@ Location:
 
 Experience:
 
+## BigRock
+
+TLDs Offered:
+
+Location:
+
+Experience:
 
 C
 
@@ -77,6 +127,27 @@ Location:
 Experience:
 
 Rating:
+
+## Crazy Domains
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## CanSpace
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
 
 D
 
@@ -110,10 +181,72 @@ Experience:
 
 Rating:
 
+## DreamHost
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Domain.com
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+
+## Dotology
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
 
 E
 
+## EuroDNS
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+## EasyDNS
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Easyspace
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+
+
 F
+
 
 G
 
@@ -154,6 +287,32 @@ TLDs Offered:
 Location:
 
 Experience:
+
+## Hello.co
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+## Hexonet	
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+
+## Hostcab
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
 
 I
 
@@ -199,6 +358,16 @@ Experience:
 Rating:
 
 ## iwantmyname
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Instra
 
 TLDs Offered:
 
@@ -272,6 +441,14 @@ Location:
 
 Experience:
 
+## NearlyFreeSpeech
+
+TLDs Offered:
+
+Location:
+
+Experience: 
+
 
 M
 
@@ -283,6 +460,15 @@ Location:
 
 Experience:
 
+## MrDomain
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+
 O
 
 ## OVHcloud
@@ -292,6 +478,15 @@ TLDs Offered:
 Location:
 
 Experience:
+
+## OnlyDomains
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
 
 P
 
@@ -366,11 +561,53 @@ Rating:
 
 T
 
+## Truehost.com
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+
 U
+
+## Upflare
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
 
 V
 
 W
+
+## Whois.com
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Webnames.ca
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
 
 X
 
