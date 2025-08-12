@@ -4,12 +4,39 @@ Ranking every domain registrars and location where they located. It's just in ca
 
 A
 
-alldomains.hosting	
+## alldomains.hosting	
 
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
 
 B
 
 C
+
+## Cloudflare
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Cosmotown
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
 
 D
 
@@ -29,6 +56,16 @@ F
 
 G
 
+## GoDaddy
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
 H
 
 I
@@ -42,6 +79,17 @@ Location:
 Experience:
 
 Rating:
+
+## ISTanCo
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
 
 J
 
@@ -81,6 +129,15 @@ Experience:
 
 Rating:
 
+## Njalla	
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+
 M
 
 ## Marcaria International
@@ -110,6 +167,16 @@ Rating: 4/5
 Q
 
 R
+
+## Regery
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
 
 S
 
@@ -157,10 +224,5 @@ X
 Y
 
 Z
-
-
-
-
-
 
 Updated: 8/12/25
