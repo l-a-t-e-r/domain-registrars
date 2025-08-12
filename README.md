@@ -1,6 +1,6 @@
 # Domain Registars
 
-Ranking every domain registrars and location where they located.
+Ranking every domain registrars and location where they located. It's just in case if offshore.cat is down and won't work again.
 
 A
 
@@ -71,6 +71,37 @@ Q
 R
 
 S
+
+## Spaceship
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Squarespace
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Sav
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
 
 T
 
