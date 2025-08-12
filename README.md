@@ -2,6 +2,27 @@
 
 Ranking every domain registrars and location where they located. It's just in case if offshore.cat is down and won't work again.
 
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0
+
+
 A
 
 ## alldomains.hosting	
@@ -50,6 +71,16 @@ Experience:
 
 Rating:
 
+## Directnic
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
 E
 
 F
@@ -57,6 +88,16 @@ F
 G
 
 ## GoDaddy
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## Gandi.net
 
 TLDs Offered:
 
@@ -81,6 +122,37 @@ Experience:
 Rating:
 
 ## ISTanCo
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+
+## Internet.bs	
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+# Infomaniak
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+Rating:
+
+## iwantmyname
 
 TLDs Offered:
 
@@ -130,6 +202,23 @@ Experience:
 Rating:
 
 ## Njalla	
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+## Name.com
+
+TLDs Offered:
+
+Location:
+
+Experience:
+
+
+## Netcetera	
 
 TLDs Offered:
 
